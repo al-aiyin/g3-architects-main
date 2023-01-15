@@ -138,3 +138,99 @@ nav li{
     width: 800px;
     height: 1059px;
 }
+/*btn*/
+.experience{
+    position: absolute;
+    margin-top: -180px;
+    margin-left: 922px;
+}
+.btn-2{
+    width: 258px;
+    height: 150px;
+    font-size: 35px;
+    color: aliceblue;
+    background-color: orange;
+    border: 0px;
+    border-radius: 5px;
+}
+/*end btn*/
+/*some fact*/
+.some-fact{
+    margin-left: 240px;
+}
+.h-some{
+    width: 258px;
+    height: 53px;
+    font-size: 45px;
+    margin-bottom: 24px;
+}
+.p-some{
+    width: 542px;
+    height: 52px;
+    font-size: 16px;
+}
+/*end*/
+/*icon*/
+.icons{
+    position: absolute;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    column-gap: 124px;
+    margin-left: 290px;
+    margin-top: 100px;
+}
+.icon-1{
+    width: 169px;
+    height: 136.22px;
+    padding: 35px;
+    border: 2px solid orange;
+    border-radius: 5px;
+}
+/*end*/
+/*sponspors*/
+.sponspors{
+    width: 542px;
+    height: 129px;
+    position: absolute;
+    margin-left: 689px;
+    margin-top: 385px;
+    text-align: center;
+}
+.h-spon{
+    font-size: 45px;
+    margin-bottom: 24px;
+}
+.p-spon{
+    width: 542px;
+    height: 52px;
+    text-align: center;
+    color: #727272;
+}
+/*end*/
+/*last img*/
+.last-img{   
+    margin-top: 685px;
+    margin-left: 240px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+/*end*/
+.footer{
+    width: 1440px;
+    height: 100px;
+    margin-top: 150px;
+    margin-bottom: 250PX;
+    margin-left: 240PX;
+    background-color: bisque;
+}
+.footer-text{
+    width: 620px;
+    height: 23px;
+    margin-left: 410px;
+    margin-top: 39px;
+
+    text-align: center;
+    align-items: center;
+}
+/*all end*/
