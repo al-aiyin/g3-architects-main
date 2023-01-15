@@ -66,10 +66,12 @@ nav li{
 /* header-end*/
 /*image and text*/
 .img4-text{
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 73px;
-    margin-bottom: 130px;
+    width: 1620px;
+    margin-bottom: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
 }
 .img-2{
     display: grid;
