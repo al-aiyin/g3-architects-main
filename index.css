@@ -4,6 +4,9 @@
     margin: 0px;
     font-family: 'Work Sans', sans-serif;
 }
+body{
+    width: 1920px;
+}
 .header{
     width: 1920px;
     height: 1422px;
